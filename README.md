@@ -1,5 +1,5 @@
-# CSGO-GithubDumper
-Uses HazeDumper to get and send everything to a repository via API of Github.
+# CSGO-PythonDumper
+Uses HazeDumper to get offsets and parse the json format into python syntax
 
 # Credits
 _UltraHD_
